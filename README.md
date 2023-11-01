@@ -1,7 +1,7 @@
 # FilmHub
 
 Movie Lookup App in Vue.js
-
+![home](home.png)
 # Done  
  - Home Page
  - Movie Searching (omdb API)
