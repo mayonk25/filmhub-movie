@@ -2,10 +2,11 @@
 
 Movie Lookup App in Vue.js
 
-Done : 
+# Done  
  - Home Page
  - Movie Searching (omdb API)
-TODO :
+   
+# TODO 
  - Movie detail page
  - Dynamic featured movie
  - Need more styling
